@@ -1,5 +1,5 @@
 package learning;
-
+// This is day 1 class adding comment to check pull functionality.
 public class Day1 {
 
 	public static void main(String[] args) {
